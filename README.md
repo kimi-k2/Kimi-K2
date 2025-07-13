@@ -782,4 +782,4 @@ Both the code repository and the model weights are released under the [Modified 
 
 If you have any questions, please reach out at [support@moonshot.cn](mailto:support@moonshot.cn).
 
-[Cal](https://cal.com/kimik2)
+[Cal](https://cal.com/kimik2)  [Linktr](https://linktr.ee/kimik2)
